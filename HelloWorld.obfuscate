@@ -1,0 +1,13 @@
+for i in range(0, 100, 1) :
+  print("HELLO WORLD!")
+public static String HelloWorld() {
+  return "Hello World!";
+}
+#include <stdio.h>
+int main() {
+  printf("Hello World!");
+  return 0;
+}  
+  
+  
+  
